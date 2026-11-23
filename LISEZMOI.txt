@@ -1,0 +1,3 @@
+ZEM RUSH 3D 2.1
+Ouvrir index.html dans le navigateur (ou VS Code > Live Server). Connexion internet requise pour charger Three.js (CDN).
+Controles : fleches = voies / vitesse, ESPACE = turbo, H = klaxon, P = pause.
